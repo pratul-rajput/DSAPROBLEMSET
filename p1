@@ -1,0 +1,22 @@
+problem link:
+class Node:
+    def __init__(self, value):
+        self.value = value
+        self.children = []
+
+def dfs_iterative(root):
+    if root is None:
+        return
+    stack = [root]
+    while stack:
+        node = stack.pop()
+        print(node.value)  # Process the node
+        for child in reversed(node.children):  # Reverse to maintain order
+            stack.append(child)
+
+# Example usage:
+root = Node(1)
+child1 = Node(2)
+child2 = Node(3)
+root.children = [child1, child2]
+dfs_iterative(root)

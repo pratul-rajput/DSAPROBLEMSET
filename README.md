@@ -2,7 +2,7 @@ LINK TO PROBLEM SHEET: https://docs.google.com/spreadsheets/d/16DGCd-F7PtdgPtGiz
 PROBLEM SOLUTION OF THE ABOVE SHEET IS GIVEN IN THIS REPOSITORY
 | #   | Title                                         | Difficulty | Solution |
 |-----|-----------------------------------------------|------------|----------|
-| 1   | [Two Sum](#)                                  | Easy       | Solution |
+| 1   | [Two Sum](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/)                                  | Easy       | Solution |
 | 2   | [Add Two Numbers](#)                          | Medium     | Solution |
 | 3   | [Longest Substring Without Repeating Characters](#) | Medium | Solution |
 | 4   | [Median of Two Sorted Arrays](#)              | Hard       | Solution |
